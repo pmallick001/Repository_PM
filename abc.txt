@@ -1,3 +1,2 @@
-date
 ifconfig
 chef generate cookbook pm_cook
