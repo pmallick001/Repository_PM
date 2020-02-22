@@ -1,1 +1,1 @@
-chef generate cookbook_pm_22feb2020
+chef generate cookbook cookbook_pm_22feb2020
